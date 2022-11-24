@@ -1,0 +1,32 @@
+#table1  ,th , td {
+   border: solid 1px;color: blue; 
+   border-collapse: collapse;
+   margin: 25px 50px 75px 100px;
+   
+   
+}
+#table2  ,th , td {
+    border: solid 1px;color: rgb(26, 237, 68); 
+    border-collapse: collapse;
+    margin: 25px 50px 75px 100px;
+    
+    
+ }
+ tr:hover{
+    background-color: rgb(30, 198, 210);
+ }
+ td:hover{
+    background-color:blue;
+ }
+#table1 th{
+color: red;background-color: rgb(196, 228, 255);
+}
+#table1 td{
+    color: rgb(104, 43, 43);
+}
+#table2 th{
+    color: rgb(0, 255, 38);background-color: rgb(0, 33, 60);
+    }
+    #table12td{
+        color: rgb(255, 150, 252);
+    }
